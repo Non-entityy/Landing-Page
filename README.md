@@ -70,7 +70,7 @@ No Cloud Store, o formulário de cadastro valida as entradas do usuário e, ao s
 
 Estrutura dos inputs:
 
-![image](./asseats/Imagens/input.png)
+![image](https://github.com/Non-entityy/Landing-Page/blob/278ab964d10cda0a627979e0f720ab8e5e711e4f/asseats/Imagens/input.png)
 
 ![image](https://github.com/Non-entityy/Landing-Page/raw/main/asseats/Imagens/areacadastro.png)
 
