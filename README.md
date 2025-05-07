@@ -24,6 +24,18 @@ O projeto Cloud Store, conta com uma landpage de uma empresa ficticia que conta 
 ### Formulario:
 ![image](https://github.com/Non-entityy/Landing-Page/blob/main/asseats/Imagens/Screenshot_2.png)
 
+## Estrutura do Projeto
+
+index.html (Cloud Game): Página inicial com promoções, carrossel de imagens e navegação.
+
+Store.html (Cloud Store): Página para registro de novos membros.
+
+main.css: Arquivo de estilos para o design do Cloud Game.
+
+form.css: Arquivo de estilos para o formulário de cadastro na Cloud Store.
+
+main.js / script.js: Arquivos JavaScript que controlam a lógica de navegação, carrossel de imagens e funcionalidade do formulário de cadastro.
+
 ## Construção:
 
 
