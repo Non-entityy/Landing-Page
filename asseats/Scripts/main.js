@@ -11,7 +11,18 @@ $(document).ready(function () {
       index = (index + 1) % slides.length;
       showSlide(index);
     }, 3000);
-    $("#menu-toggle").click(function () {
-        $("#menu").toggleClass("mostrar");
+    $(document).ready(function () {
+        function configurarBotaoCompra(idBotao) {
+          $(idBotao).on("click", function (event) {
+            event.preventDefault();
+            const produto = $(this).closest(".promo-card").find("h5").text();
+            alert("Você clicou para comprar: " + produto);
+          });
+        }
+      
+        configurarBotaoCompra("#botao1");
+        configurarBotaoCompra("#botao2");
+        configurarBotaoCompra("#botao3");
+        configurarBotaoCompra("#botao4");
       });
 });
