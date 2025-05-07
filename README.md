@@ -22,7 +22,7 @@ O projeto Cloud Store, conta com uma landpage de uma empresa ficticia que conta 
 ![image](./asseats/Imagens/Screenshot_1.png)
 
 ### Formulario:
-![image](./asseats/Imagens/Screenshot_2.png)
+![image](https://github.com/Non-entityy/Landing-Page/blob/cfa24e596e663e5abaf29a39ce54082bb84f1057/asseats/Imagens/Screenshot_2.png)
 
 ## Estrutura do Projeto
 
@@ -44,7 +44,8 @@ O carrossel de imagens exibe promoções de jogos. Ele é controlado pelo jQuery
 ![image](./asseats/Imagens/mainjs.png)
 
 
-![Carrossel](./asseats/videos/Animação.gif)
+![Carrossel](https://raw.githubusercontent.com/Non-entityy/Landing-Page/main/asseats/videos/Animação.gif)
+
 
 
 A seção de compras com um alert pelo jQuery para simular a compra de um produto.
