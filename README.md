@@ -19,11 +19,10 @@ Landing Page de jogos, este projeto visa colocar em prática conhecimentos adqui
 O projeto Cloud Store, conta com uma landpage de uma empresa ficticia que conta com 3 sessões na página principal + uma página para desenvolvimento de formulário.
 
 ### Pagina principal:
-![image](https://github.com/Non-entityy/Landing-Page/raw/main/asseats/Imagens/Screenshot_1.png)
-
+![image](./asseats/Imagens/Screenshot_1.png)
 
 ### Formulario:
-![image](https://github.com/Non-entityy/Landing-Page/blob/cfa24e596e663e5abaf29a39ce54082bb84f1057/asseats/Imagens/Screenshot_2.png)
+![image](./asseats/Imagens/Screenshot_2.png)
 
 ## Estrutura do Projeto
 
@@ -42,8 +41,7 @@ main.js / script.js: Arquivos JavaScript que controlam a lógica de navegação,
 
 O carrossel de imagens exibe promoções de jogos. Ele é controlado pelo jQuery e troca as imagens automaticamente a cada 3 segundos.
 
-![mainjs](https://github.com/Non-entityy/Landing-Page/raw/main/asseats/Imagens/mainjs.png)
-
+![image](./asseats/Imagens/mainjs.png)
 
 
 ![Carrossel](https://raw.githubusercontent.com/Non-entityy/Landing-Page/main/asseats/videos/Animação.gif)
@@ -52,31 +50,25 @@ O carrossel de imagens exibe promoções de jogos. Ele é controlado pelo jQuery
 
 A seção de compras com um alert pelo jQuery para simular a compra de um produto.
 
-![mainjs2](https://github.com/Non-entityy/Landing-Page/raw/main/asseats/Imagens/mainjs2.png)
+![image](./asseats/Imagens/mainjs2.png)
 
+![image](./asseats/Imagens/comprar.png)
 
-![comprar](https://github.com/Non-entityy/Landing-Page/raw/main/asseats/Imagens/comprar.png)
-
-![compraralert](https://github.com/Non-entityy/Landing-Page/raw/main/asseats/Imagens/compraralert.png)
-
+![image](./asseats/Imagens/compraralert.png)
 
 
 ## Formulario:
 
 No Cloud Store, o formulário de cadastro valida as entradas do usuário e, ao ser enviado, exibe um alerta de sucesso.
 
-![image](https://github.com/Non-entityy/Landing-Page/raw/main/asseats/Imagens/script.png)
-
-![image](https://github.com/Non-entityy/Landing-Page/raw/main/asseats/Imagens/alertcadastro.png)
-
+![image](./asseats/Scripts/script.js)
+![image](./asseats/Imagens/alertcadastro.png)
 
 Estrutura dos inputs:
 
-![image](https://github.com/Non-entityy/Landing-Page/raw/main/asseats/Imagens/input.png)
+![image](./asseats/Imagens/input.png)
 
-
-![image](https://github.com/Non-entityy/Landing-Page/raw/main/asseats/Imagens/areacadastro.png)
-
+![image](./asseats/Imagens/areacadastro.png)
 
 Fim
 
