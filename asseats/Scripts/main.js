@@ -11,4 +11,7 @@ $(document).ready(function () {
       index = (index + 1) % slides.length;
       showSlide(index);
     }, 3000);
+    $("#menu-toggle").click(function () {
+        $("#menu").toggleClass("mostrar");
+      });
 });
