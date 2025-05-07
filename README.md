@@ -57,5 +57,8 @@ $(document).ready(function () {
 });
 
 
+![Carrossel](https://github.com/Non-entityy/Landing-Page/blob/main/asseats/videos/Animação.gif)
+
+
 
 
