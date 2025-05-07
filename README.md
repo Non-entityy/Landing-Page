@@ -19,10 +19,10 @@ Landing Page de jogos, este projeto visa colocar em prática conhecimentos adqui
 O projeto Cloud Store, conta com uma landpage de uma empresa ficticia que conta com 3 sessões na página principal + uma página para desenvolvimento de formulário.
 
 ### Pagina principal:
-![image](https://github.com/user-attachments/assets/65415bfc-2fe0-4a01-a68e-fc19cb0fe870)
+![image](https://github.com/Non-entityy/Landing-Page/blob/main/asseats/Imagens/Screenshot_1.png)
 
 ### Formulario:
-![image](https://github.com/user-attachments/assets/6e89941f-abf4-44d4-bd51-ce7bb6de92c1)
+![image](https://github.com/Non-entityy/Landing-Page/blob/main/asseats/Imagens/Screenshot_2.png)
 
 ## Construção:
 
