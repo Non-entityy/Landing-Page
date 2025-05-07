@@ -41,7 +41,7 @@ main.js / script.js: Arquivos JavaScript que controlam a lógica de navegação,
 
 O carrossel de imagens exibe promoções de jogos. Ele é controlado pelo jQuery e troca as imagens automaticamente a cada 3 segundos.
 
-![image]()
+![image](https://github.com/Non-entityy/Landing-Page/blob/main/asseats/Imagens/mainjs.png)
 
 
 ![Carrossel](https://github.com/Non-entityy/Landing-Page/blob/main/asseats/videos/Animação.gif)
