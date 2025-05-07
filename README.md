@@ -68,7 +68,8 @@ Estrutura dos inputs:
 
 ![image](./asseats/Imagens/input.png)
 
-![image](./asseats/Imagens/areacadastro.png)
+![image](https://github.com/Non-entityy/Landing-Page/raw/main/asseats/Imagens/areacadastro.png)
+
 
 Fim
 
