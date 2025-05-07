@@ -36,6 +36,26 @@ form.css: Arquivo de estilos para o formulário de cadastro na Cloud Store.
 
 main.js / script.js: Arquivos JavaScript que controlam a lógica de navegação, carrossel de imagens e funcionalidade do formulário de cadastro.
 
+
 ## Construção:
+
+O carrossel de imagens exibe promoções de jogos. Ele é controlado pelo jQuery e troca as imagens automaticamente a cada 3 segundos.
+
+$(document).ready(function () {
+    let index = 0;
+    const slides = $(".slide");
+
+    function showSlide(i) {
+      slides.removeClass("ativo");
+      slides.eq(i).addClass("ativo");
+    }
+
+    setInterval(function () {
+      index = (index + 1) % slides.length;
+      showSlide(index);
+    }, 3000);
+});
+
+
 
 
