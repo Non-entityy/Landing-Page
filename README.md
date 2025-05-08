@@ -19,7 +19,7 @@ Landing Page de jogos, este projeto visa colocar em prática conhecimentos adqui
 O projeto Cloud Store, conta com uma landpage de uma empresa ficticia que conta com 3 sessões na página principal + uma página para desenvolvimento de formulário.
 
 ### Pagina principal:
-![image](https://raw.githubusercontent.com/Non-entityy/Landing-Page/07d431b2ec05a70020936799987e0588e9f71857/asseats/Imagens/img/Screenshot_1.png)
+![image](https://github.com/Non-entityy/Landing-Page/blob/main/asseats/Imagens/img/Screenshot_1.png)
 
 
 ### Formulario:
@@ -70,7 +70,7 @@ No Cloud Store, o formulário de cadastro valida as entradas do usuário e, ao s
 
 Estrutura dos inputs:
 
-![image](https://raw.githubusercontent.com/Non-entityy/Landing-Page/278ab964d10cda0a627979e0f720ab8e5e711e4f/asseats/Imagens/input.png)
+![image](https://github.com/Non-entityy/Landing-Page/blob/main/asseats/Imagens/img/input.png)
 
 ![image](./asseats/Imagens/img/areacadastro.png)
 
