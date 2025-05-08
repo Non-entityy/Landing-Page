@@ -51,7 +51,7 @@ O carrossel de imagens exibe promoções de jogos. Ele é controlado pelo jQuery
 
 A seção de compras com um alert pelo jQuery para simular a compra de um produto.
 
-![image](./asseats/Imagens/img/mainjs2.png)
+![image](https://github.com/Non-entityy/Landing-Page/blob/main/asseats/Imagens/img/mainjs2.png)
 
 
 ![image](./asseats/Imagens/img/comprar.png)
@@ -70,7 +70,7 @@ No Cloud Store, o formulário de cadastro valida as entradas do usuário e, ao s
 
 Estrutura dos inputs:
 
-![image](https://github.com/Non-entityy/Landing-Page/blob/main/asseats/Imagens/img/input.png)
+![image](https://raw.githubusercontent.com/Non-entityy/Landing-Page/main/asseats/Imagens/img/input.png)
 
 ![image](./asseats/Imagens/img/areacadastro.png)
 
