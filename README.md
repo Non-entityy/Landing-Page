@@ -51,7 +51,7 @@ O carrossel de imagens exibe promoções de jogos. Ele é controlado pelo jQuery
 
 A seção de compras com um alert pelo jQuery para simular a compra de um produto.
 
-![image](https://github.com/Non-entityy/Landing-Page/blob/main/asseats/Imagens/img/mainjs2.png)
+![image](./asseats/Imagens/img/mainjs2.png)
 
 
 ![image](./asseats/Imagens/img/comprar.png)
