@@ -42,7 +42,7 @@ main.js / script.js: Arquivos JavaScript que controlam a lógica de navegação,
 
 O carrossel de imagens exibe promoções de jogos. Ele é controlado pelo jQuery e troca as imagens automaticamente a cada 3 segundos.
 
-![image](https://github.com/Non-entityy/Landing-Page/blob/main/asseats/Imagens/img/mainjs.png)
+![image](./asseats/Imagens/img/mainjs.png)
 
 
 ![Carrossel](https://raw.githubusercontent.com/Non-entityy/Landing-Page/main/asseats/videos/Animação.gif)
@@ -51,10 +51,10 @@ O carrossel de imagens exibe promoções de jogos. Ele é controlado pelo jQuery
 
 A seção de compras com um alert pelo jQuery para simular a compra de um produto.
 
-![image](https://github.com/Non-entityy/Landing-Page/blob/main/asseats/Imagens/img/mainjs2.png)
+![image](./asseats/Imagens/img/mainjs2.png)
 
 
-![image](https://github.com/Non-entityy/Landing-Page/blob/main/asseats/Imagens/img/comprar.png)
+![image](./asseats/Imagens/img/comprar.png)
 
 
 ![image](https://github.com/Non-entityy/Landing-Page/blob/main/asseats/Imagens/img/compraralert.png)
