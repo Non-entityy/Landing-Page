@@ -57,7 +57,7 @@ A seção de compras com um alert pelo jQuery para simular a compra de um produt
 ![image](./asseats/Imagens/img/comprar.png)
 
 
-![image](https://github.com/Non-entityy/Landing-Page/blob/d9431f0df72196501ef13af024374221eacf7569/asseats/Imagens/img/compraralert.png)
+![image](https://github.com/Non-entityy/Landing-Page/blob/main/asseats/Imagens/img/compraralert.png)
 
 
 ## Formulario:
