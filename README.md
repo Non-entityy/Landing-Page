@@ -19,11 +19,11 @@ Landing Page de jogos, este projeto visa colocar em prática conhecimentos adqui
 O projeto Cloud Store, conta com uma landpage de uma empresa ficticia que conta com 3 sessões na página principal + uma página para desenvolvimento de formulário.
 
 ### Pagina principal:
-![image](https://github.com/Non-entityy/Landing-Page/raw/main/asseats/Imagens/Screenshot_1.png)
+![image](./asseats/Imagens/img/Screenshot_1.png)
 
 
 ### Formulario:
-![image](./asseats/Imagens/Screenshot_2.png)
+![image](./asseats/Imagens/img/Screenshot_2.png)
 
 ## Estrutura do Projeto
 
@@ -42,7 +42,7 @@ main.js / script.js: Arquivos JavaScript que controlam a lógica de navegação,
 
 O carrossel de imagens exibe promoções de jogos. Ele é controlado pelo jQuery e troca as imagens automaticamente a cada 3 segundos.
 
-![image](./asseats/Imagens/mainjs.png)
+![image](./asseats/Imagens/img/mainjs.png)
 
 
 ![Carrossel](https://raw.githubusercontent.com/Non-entityy/Landing-Page/main/asseats/videos/Animação.gif)
@@ -51,28 +51,28 @@ O carrossel de imagens exibe promoções de jogos. Ele é controlado pelo jQuery
 
 A seção de compras com um alert pelo jQuery para simular a compra de um produto.
 
-![image](https://github.com/Non-entityy/Landing-Page/raw/main/asseats/Imagens/mainjs2.png)
+![image](./asseats/Imagens/img/mainjs2.png)
 
 
-![image](https://github.com/Non-entityy/Landing-Page/raw/main/asseats/Imagens/comprar.png)
+![image](./asseats/Imagens/img/comprar.png)
 
 
-![image](./asseats/Imagens/compraralert.png)
+![image](./asseats/Imagens/img/compraralert.png)
 
 
 ## Formulario:
 
 No Cloud Store, o formulário de cadastro valida as entradas do usuário e, ao ser enviado, exibe um alerta de sucesso.
 
-![image](./asseats/Imagens/formsub.png)
+![image](./asseats/Imagens/img/formsub.png)
 
-![image](./asseats/Imagens/alertcadastro.png)
+![image](./asseats/Imagens/img/alertcadastro.png)
 
 Estrutura dos inputs:
 
-![image](https://github.com/Non-entityy/Landing-Page/blob/278ab964d10cda0a627979e0f720ab8e5e711e4f/asseats/Imagens/input.png)
+![image](https://github.com/Non-entityy/Landing-Page/blob/278ab964d10cda0a627979e0f720ab8e5e711e4f/asseats/Imagens/img/input.png)
 
-![image](https://github.com/Non-entityy/Landing-Page/raw/main/asseats/Imagens/areacadastro.png)
+![image](https://github.com/Non-entityy/Landing-Page/raw/main/asseats/Imagens/img/areacadastro.png)
 
 
 Fim
