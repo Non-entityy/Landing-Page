@@ -72,7 +72,7 @@ Estrutura dos inputs:
 
 ![image](https://raw.githubusercontent.com/Non-entityy/Landing-Page/278ab964d10cda0a627979e0f720ab8e5e711e4f/asseats/Imagens/input.png)
 
-![image](https://raw.githubusercontent.com/Non-entityy/Landing-Page/main/asseats/Imagens/img/areacadastro.png)
+![image](./asseats/Imagens/img/areacadastro.png)
 
 
 Fim
