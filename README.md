@@ -64,13 +64,13 @@ A seção de compras com um alert pelo jQuery para simular a compra de um produt
 
 No Cloud Store, o formulário de cadastro valida as entradas do usuário e, ao ser enviado, exibe um alerta de sucesso.
 
-![image](https://github.com/Non-entityy/Landing-Page/blob/main/asseats/Imagens/img/formsub.png)
+![image](./asseats/Imagens/img/formsub.png)
 
 ![image](https://github.com/Non-entityy/Landing-Page/blob/main/asseats/Imagens/img/alertcadastro.png)
 
 Estrutura dos inputs:
 
-![image](github.com/Non-entityy/Landing-Page/raw/main/asseats/Imagens/img/input.png)
+![image](./asseats/Imagens/img/input.png)
 
 ![image](https://github.com/Non-entityy/Landing-Page/blob/main/asseats/Imagens/img/areacadastro.png)
 
